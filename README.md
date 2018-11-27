@@ -1,7 +1,7 @@
 # 1D-FDTD
-Different format for FDTD.
+## Different format for FDTD.
 listed 
-  Lax-Wendroff
-  Lax-Friedrich Flux Formulation
-  Lax-Friedrich Advection
-  MacCormack for advection quation
+      Lax-Wendroff 
+      Lax-Friedrich Flux Formulation
+      Lax-Friedrich Advection
+      MacCormack for advection quation
